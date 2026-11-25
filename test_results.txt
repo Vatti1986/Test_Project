@@ -1,0 +1,5 @@
+Expected visited points		Actual visited points		Test result (PASS / FAIL)
+(-3.0, -149.0)                   (-3.0, -149.0)                   FAIL
+(4.0, 150.0)                     (4.0, 150.0)                     
+(-4.0, -150.0)                                                    
+(0.045, 0.001)                                                    
